@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/quantumfold/static/css/main.e6c13ad2.css",
+    "main.js": "/quantumfold/static/js/main.2eb8d215.js",
+    "static/js/453.cdbb76cd.chunk.js": "/quantumfold/static/js/453.cdbb76cd.chunk.js",
+    "index.html": "/quantumfold/index.html",
+    "main.e6c13ad2.css.map": "/quantumfold/static/css/main.e6c13ad2.css.map",
+    "main.2eb8d215.js.map": "/quantumfold/static/js/main.2eb8d215.js.map",
+    "453.cdbb76cd.chunk.js.map": "/quantumfold/static/js/453.cdbb76cd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.2eb8d215.js"
+  ]
+}
